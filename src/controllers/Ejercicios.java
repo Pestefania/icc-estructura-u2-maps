@@ -1,17 +1,15 @@
 package controllers;
 
-import java.util.HashMap;
-
 public class Ejercicios {
 
     /**
-     * Determina si dos cadenas de caracteres son anagramas.
-     * Dos cadenas son anagramas si tienen los mismos caracteres en la misma
+      Determina si dos cadenas de caracteres son anagramas.
+     Dos cadenas son anagramas si tienen los mismos caracteres en la misma
      * cantidad,
      * sin importar el orden.
      *
      * Ejemplo 1:
-     * Input: str1 = "listen", str2 = "silent"
+     *Input: str1 = "listen", str2 = "silent"
      * Output: true
      * Explicación: Ambas cadenas tienen los mismos caracteres con la misma
      * frecuencia.
